@@ -1,1 +1,0 @@
-iam_name = ["test-rajjo1", "test-aman1"]
